@@ -1,0 +1,8 @@
+{
+	"name": "starter-keystone4",
+	"database": "starter-keystone4",
+	"subdomain": "starter-keystone4",
+	"admin_nav": { 
+									"index": ["Index"]
+								}
+}
